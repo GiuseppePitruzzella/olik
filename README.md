@@ -7,7 +7,7 @@
   <h3 align="center">Olik Text Editor</h3>
 
   <p align="center">
-    A minimal text editor written in C from scratch, following the "Build Your Own Text Editor" tutorial.
+    <i>A minimal text editor written in C from scratch.</i>
     <br />
     <a href="https://github.com/GiuseppePitruzzella/olik/issues">Report Bug</a>
     ·
